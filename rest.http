@@ -1,0 +1,9 @@
+###
+
+POST http://localhost:8080/send
+content-type: application/json
+
+{
+    "number" : "8758418451",
+    "message" : "hello conole testing"
+}
